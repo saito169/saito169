@@ -3,10 +3,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=saito169&no-bg=true&no-frame=true&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=saito169&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=noctis_minimus" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saito169&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=noctis_minimus" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saito169&hide_border=true&theme=noctis_minimus" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saito169&layout=compact&hide_border=true&theme=noctis_minimus" />
 </a>
-
-
