@@ -1,4 +1,7 @@
 [![saito169](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fsaito169)](https://atcoder.jp/users/saito169)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/saito169/posts.svg)](http://qiita.com/saito169)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/saito169/contributions.svg)](http://qiita.com/saito169)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/saito169/followers.svg)](http://qiita.com/saito169)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saito169&no-bg=true&no-frame=true&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 
