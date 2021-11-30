@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![saito169](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fsaito169)](https://atcoder.jp/users/saito169)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saito169&no-bg=true&no-frame=true&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
